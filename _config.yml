@@ -2,9 +2,9 @@
 markdown: kramdown
 
 # URL of the Site
-url: ''
+url: 'http://kensho.foundation/'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl:
+baseurl: https://github.com/kenshofoundation/WhatATheme
 
 # Title of the Site
 title: Kensho Foundation
